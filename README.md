@@ -71,9 +71,3 @@ This guide covers the step-by-step process for setting up a Windows Virtual Mach
 - Set up automatic backups for the VM.
 - Deploy additional VMs for other services.
 - Implement firewall rules for enhanced security.
-
----
-
-## Credits
-- Setup and configuration by [Your Name]
-- Powered by **Proxmox VE**, **Tailscale**, and **Microsoft Remote Desktop**.
